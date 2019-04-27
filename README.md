@@ -1,6 +1,6 @@
 # Kaggle-House-Price-Prediction
 
-## House Price Prediction Using Several Machine Learning Techniques
+## House Price Prediction Using Several Machine Learning Algorithms
 
 ### Kaggle Link for dataset
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
